@@ -16,5 +16,5 @@ def get_the_min(groceries)
     end
   end
 
-  grocery_items.min do |grocery_item
+  grocery_items.min
 end
